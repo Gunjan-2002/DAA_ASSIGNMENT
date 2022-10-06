@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
 Travelling Salesman Problem
-</h2>
+</h1>
 
 ## 💼 Language Used
 
