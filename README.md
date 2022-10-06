@@ -11,10 +11,14 @@ Travelling Salesman Problem
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=react&color=61DAFB)
 
 
+<p align="center">
+  <a href="https://user-images.githubusercontent.com/103045206/194345594-c2bc16cb-de11-4aa1-800c-4ee5e50cc01c.jpg" alt="my banner"></a>
+</p>
 
 
 
-  ![hqdefault](https://user-images.githubusercontent.com/103045206/194345594-c2bc16cb-de11-4aa1-800c-4ee5e50cc01c.jpg)
+
+![hqdefault](https://user-images.githubusercontent.com/103045206/194345594-c2bc16cb-de11-4aa1-800c-4ee5e50cc01c.jpg)
 
 
 <h3 align="center">
