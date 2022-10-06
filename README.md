@@ -58,9 +58,9 @@ public class TSP_Modified
 		
 		for(int i=0;i<no_Vertices;i++)
 		{
-			if(cost[c_Vertex-1][i].dis != 0  && visited[i] == false) //****
+			if(cost[c_Vertex-1][i].dis != 0  && visited[i] == false) 
 			{
-				if((cost[c_Vertex-1][i].dis + cost[i][c_Vertex-1].dis)*(cost[c_Vertex-1][i].time + cost[i][c_Vertex-1].time) < min)//****
+				if((cost[c_Vertex-1][i].dis + cost[i][c_Vertex-1].dis)*(cost[c_Vertex-1][i].time + cost[i][c_Vertex-1].time) < min)
 				{
 					min = (cost[c_Vertex-1][i].dis + cost[i][c_Vertex-1].dis)*(cost[c_Vertex-1][i].time + cost[i][c_Vertex-1].time);
 					cost_spent = cost[c_Vertex-1][i].dis;
@@ -187,7 +187,7 @@ Cost Matrix Is :
 10|3	6|4	0|0	9|2	
 12|8	15|7	6|3	0|0	
 
-Path That Salesman Will Follow While Having Minimum Distance Covered
+Path That Salesman Will Follow While Having Optimal Distance Covered in Optimal Time
 1 ---> 3 ---> 4 ---> 2 ---> 1
 
 Total Cost Is : 35
