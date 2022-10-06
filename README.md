@@ -13,9 +13,9 @@ Travelling Salesman Problem
 
 
 
-<p align="center">
+
   ![hqdefault](https://user-images.githubusercontent.com/103045206/194345594-c2bc16cb-de11-4aa1-800c-4ee5e50cc01c.jpg)
-</p>
+
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
