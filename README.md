@@ -149,6 +149,51 @@ public class TSP_Modified
 
 ```
 
+## Output :
+
+```
+Enter Number Of Cities
+4
+Enter Starting City
+1
+Enter Cost & Time To Travel Between City : 1 --> 2
+9 10
+Enter Cost & Time To Travel Between City : 1 --> 3
+4 3
+Enter Cost & Time To Travel Between City : 1 --> 4
+7 2
+Enter Cost & Time To Travel Between City : 2 --> 1
+7 5
+Enter Cost & Time To Travel Between City : 2 --> 3
+3 7
+Enter Cost & Time To Travel Between City : 2 --> 4
+2 6
+Enter Cost & Time To Travel Between City : 3 --> 1
+10 3
+Enter Cost & Time To Travel Between City : 3 --> 2
+6 4
+Enter Cost & Time To Travel Between City : 3 --> 4
+9 2
+Enter Cost & Time To Travel Between City : 4 --> 1
+12 8
+Enter Cost & Time To Travel Between City : 4 --> 2
+15 7
+Enter Cost & Time To Travel Between City : 4 --> 3
+6 3
+
+Cost Matrix Is :
+0|0	9|10	4|3	7|2	
+7|5	0|0	3|7	2|6	
+10|3	6|4	0|0	9|2	
+12|8	15|7	6|3	0|0	
+
+Path That Salesman Will Follow While Having Minimum Distance Covered
+1 ---> 3 ---> 4 ---> 2 ---> 1
+
+Total Cost Is : 35
+Total Time Is : 17
+
+```
 
 ## 💼 Language Used
  
