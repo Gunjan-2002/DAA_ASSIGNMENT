@@ -14,7 +14,7 @@ Travelling Salesman Problem
 
 
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/103045206/194343429-d3255717-2b05-4ef4-8f35-f77c4e4c2b2a.jpg)
+  <img src="https://user-images.githubusercontent.com/103045206/194343429-d3255717-2b05-4ef4-8f35-f77c4e4c2b2a.jpg
 " alt="my banner">
 </p>
 
