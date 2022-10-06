@@ -11,14 +11,16 @@ Implement the solution for Travelling Salesman Problem using Dynamic Programming
 * Each edge (u, v) in TSP graph is assigned some non-negative weight and time, which represents the distance and time to travel between city u and v. This problem can be solved by finding the Hamiltonian cycle of the graph.
 * The distance between cities and time to travel is best described by the weighted graph, where edge (u, v) indicates the path from city u to v and w(u, v) , t(u,v) represents the distance between cities u and v and time to travel respectively.
 
-## Approach :
+## Approach : 
 * Step 1:
 Let d[i, j] indicates the distance between cities i and j. Function C[x, V – { x }]is the cost of the path starting from city x. V is the set of cities/vertices in given graph. The aim of TSP is to minimize the cost function. 
 
-*Step 2:
+*
+Step 2:
 Assume that graph contains n vertices V1, V2, ..., Vn. TSP finds a path covering all vertices exactly once, and the same time it tries to minimize the overall traveling distance.
 
-*Step 3:
+*
+Step 3:
 Mathematical formula to find minimum distance is stated below:
 C(i, V) = min { d[i, j] + C(j, V – { j }) }, j ∈ V and i ∉ V.
 
