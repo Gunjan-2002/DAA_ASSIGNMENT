@@ -24,10 +24,9 @@ cost(i, V) = min { (cost[i, j].dis + C=cost(j, V – { j }).dis) * (cost[i, j].t
 
 TSP problem possesses the principle of optimality, i.e. for any intermediate path (Vi, Vj) distance and time must be optimal.
 
----
+```
 jsnddjjcjdnjcfdk
----
-
+```
 
 
 ## 💼 Language Used
