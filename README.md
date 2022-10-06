@@ -195,6 +195,9 @@ Total Time Is : 17
 
 ```
 
+## Observation :
+This Travelling Salesman Problem is diffrent from the traditional Travelling Salesman Problem as in this modified version we check for the optimal condition of two parameters that are Distance & Time and for a salesman to travel from one city to another both Distance and Time should be minimum .
+
 ## 💼 Language Used
  
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=react&color=61DAFB)
