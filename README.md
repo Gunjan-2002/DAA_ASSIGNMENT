@@ -197,7 +197,7 @@ Total Time Is : 17
 
 ## 💼 Language Used
  
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=react&color=61DAFB)
 
 ## 💼 IDE Used
 
