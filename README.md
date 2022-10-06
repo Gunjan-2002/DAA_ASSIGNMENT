@@ -1,5 +1,5 @@
 <h2 align="center">
-#Travelling Salesman Problem
+Travelling Salesman Problem
 </h2>
 
 ## 💼 Language Used
