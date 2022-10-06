@@ -1,4 +1,4 @@
-# DAA_ASSIGNMENT
+# Travelling Salesman Problem
 ## 💼 Language Used
 
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=react&color=61DAFB)
