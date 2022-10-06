@@ -18,15 +18,13 @@ Let cost[i, j].dis indicates the distance between cities i and j and cost[i, j].
 * Step 2:
 Assume that graph contains n vertices V1, V2, ..., Vn. TSP finds a path covering all vertices exactly once, and the same time it tries to minimize the overall traveling distance and time taken to travel.
 
-*
-
-
-*
-Step 3:
+* Step 3:
 Mathematical formula to find minimum distance is stated below:
 cost(i, V) = min { (cost[i, j].dis + C=cost(j, V – { j }).dis) * (cost[i, j].time + cost(j, V – { j }).time) }, j ∈ V and i ∉ V.
 
 TSP problem possesses the principle of optimality, i.e. for any intermediate path (Vi, Vj) distance and time must be optimal.
+
+
 
 
 
