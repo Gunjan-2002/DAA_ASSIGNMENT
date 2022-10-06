@@ -10,7 +10,10 @@ Implement the solution for Travelling Salesman Problem using Dynamic Programming
 * It is not difficult to show that this problem is NP complete problem. There exists n! paths, a search of the optimal path becomes very slow when n is considerably large.
 * Each edge (u, v) in TSP graph is assigned some non-negative weight and time, which represents the distance and time to travel between city u and v. This problem can be solved by finding the Hamiltonian cycle of the graph.
 * The distance between cities and time to travel is best described by the weighted graph, where edge (u, v) indicates the path from city u to v and w(u, v) , t(u,v) represents the distance between cities u and v and time to travel respectively.
-* 
+
+## Approach :
+
+
 
 
 ## 💼 Language Used
