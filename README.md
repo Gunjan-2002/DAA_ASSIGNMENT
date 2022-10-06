@@ -14,7 +14,8 @@ Travelling Salesman Problem
 
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <img src="![hqdefault](https://user-images.githubusercontent.com/103045206/194343429-d3255717-2b05-4ef4-8f35-f77c4e4c2b2a.jpg)
+" alt="my banner">
 </p>
 
 <h3 align="center">
