@@ -12,13 +12,13 @@ Travelling Salesman Problem
 
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/103045206/194345594-c2bc16cb-de11-4aa1-800c-4ee5e50cc01c.jpg" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img width=”200" height=”200"  src="https://user-images.githubusercontent.com/103045206/194345594-c2bc16cb-de11-4aa1-800c-4ee5e50cc01c.jpg" alt="my banner"></a>
 </p>
 
 
 
 
-![hqdefault](https://user-images.githubusercontent.com/103045206/194345594-c2bc16cb-de11-4aa1-800c-4ee5e50cc01c.jpg)
+
 
 
 <h3 align="center">
