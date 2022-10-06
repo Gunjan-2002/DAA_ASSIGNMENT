@@ -2,8 +2,8 @@
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/103045206/194352037-cde3c1f3-4fe3-48c6-910b-685f0019f5c0.jpg" alt="my banner"></a>
 </p>
 
- Problem Statement :
-<p>Implement the solution for Travelling Salesman Problem using Dynamic Programming approach in which salesman have to travel minimum Distance in optimal Time </p>
+## Problem Statement :
+Implement the solution for Travelling Salesman Problem using Dynamic Programming approach in which salesman have to travel minimum Distance in optimal Time.
 
 ## 💼 Language Used
  
