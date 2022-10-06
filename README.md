@@ -2,10 +2,9 @@
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/103045206/194352037-cde3c1f3-4fe3-48c6-910b-685f0019f5c0.jpg" alt="my banner"></a>
 </p>
 
-### Problem Statement:
+<h1 align="left">
+Problem Statement:
 
-<h1 align="center">
-Travelling Salesman Problem
 </h1>
 
 ## 💼 Language Used
