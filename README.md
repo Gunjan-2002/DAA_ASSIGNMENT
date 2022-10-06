@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="left">
-Problem Statement:
-
+Problem Statement :
 </h1>
+<p>Implement the solution for Travelling Salesman Problem using Dynamic Programming approach in which salesman have to travel minimum Distance in optimal Time </p>
 
 ## 💼 Language Used
  
