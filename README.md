@@ -13,18 +13,20 @@ Implement the solution for Travelling Salesman Problem using Dynamic Programming
 
 ## Approach : 
 * Step 1:
-Let d[i, j] indicates the distance between cities i and j. Function C[x, V – { x }]is the cost of the path starting from city x. V is the set of cities/vertices in given graph. The aim of TSP is to minimize the cost function. 
+Let cost[i, j].dis indicates the distance between cities i and j and cost[i, j].time indicates the time to travel between cities i and j. V is the set of cities/vertices in given graph. The aim of TSP is to minimize the function such that salesman will cover optimal distance in optimum time. 
+
+*Step 2:
+Assume that graph contains n vertices V1, V2, ..., Vn. TSP finds a path covering all vertices exactly once, and the same time it tries to minimize the overall traveling distance and time taken to travel.
 
 *
-Step 2:
-Assume that graph contains n vertices V1, V2, ..., Vn. TSP finds a path covering all vertices exactly once, and the same time it tries to minimize the overall traveling distance.
+
 
 *
 Step 3:
 Mathematical formula to find minimum distance is stated below:
-C(i, V) = min { d[i, j] + C(j, V – { j }) }, j ∈ V and i ∉ V.
+cost(i, V) = min { (cost[i, j].dis + C=cost(j, V – { j }).dis) * (cost[i, j].time + cost(j, V – { j }).time) }, j ∈ V and i ∉ V.
 
-TSP problem possesses the principle of optimality, i.e. for d[V1, Vn] to be minimum, any intermediate path (Vi, Vj) must be minimum.
+TSP problem possesses the principle of optimality, i.e. for any intermediate path (Vi, Vj) distance and time must be optimal.
 
 
 
