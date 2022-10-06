@@ -1,4 +1,7 @@
-# Travelling Salesman Problem
+<h2 align="center">
+#Travelling Salesman Problem
+</h2>
+
 ## 💼 Language Used
 
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=react&color=61DAFB)
